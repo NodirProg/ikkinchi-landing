@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+.main_font {
+    font-family: 'Fjalla One';
+} 
+header {
+    background-color: #eaaf47;
+}
+.led {
+    display: inline-block;
+    padding: 5px 10px 5px 45px;
+
+}
+.head_pi {
+    display: inline-block;
+    font-size: 35px;
+}
+.hash1 { 
+    color: #eaaf47;
+    /* font-size: 90px; */
+    margin-top: 30px;
+}
+.pi {
+    font-size: 27px;
+}
+.foodball-c {
+    font-size: 45px;
+}
+.support {
+    font-size: 30px;
+}
+.more_mode {
+    font-size: 35px;
+    background-color: #EAAF47;
+    padding: 8px 65px;
+    border-radius: 14px;
+}
+.foot_icons {
+    background-color: #eaaf47;
+}
+.icons_c {
+    color: black;
+    font-size: 50px;
+    margin: 20px 10px 40px 10px;
+}
